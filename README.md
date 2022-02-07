@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sergey!
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript on Hexlet
 
 <!---
