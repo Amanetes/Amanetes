@@ -5,15 +5,22 @@
 
 - 🌱 I’m currently learning  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)  on Hexlet
 
-## My Skill Set  
-
-<table><tr><td valign="top" width="50%">
+### My Skill Set  
+<table><tr><td valign="top" width="33%">
   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
-  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+  
+  </td></tr></table>  
+
+### GitHub Stats
+  
+  ![Amanetes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanetes&theme=blue-green)
+  
+### Joke of the day
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 Amanetes/Amanetes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
