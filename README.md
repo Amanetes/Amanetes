@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D1%84%D0%B0%D1%82%D1%8E%D1%85%D0%B8%D0%BD-241b38b2/)
 
 
-- 🌱 I’m currently learning  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)  on Hexlet
+- 🌱 I’m currently learning JavaScript on Hexlet 
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
