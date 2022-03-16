@@ -4,6 +4,7 @@
 
 
 - 🌱 I’m currently learning JavaScript on Hexlet 
+- ⚡ Hoping to learn Ruby on Rails
 
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
