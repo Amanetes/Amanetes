@@ -5,8 +5,7 @@
 [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
 
 
-- 🌱 I’m currently learning JavaScript on Hexlet 
-- ⚡ Hoping to learn Ruby on Rails
+- 💎 I’m currently learning Ruby on Rails 
 
 ### My Skill Set  
 <table><tr><td valign="top" width="50%">
