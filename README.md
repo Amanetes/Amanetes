@@ -2,6 +2,7 @@
 
 - 💎 I’m currently learning Ruby on Rails 
 - [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
+- ![](https://komarev.com/ghpvc/?username=Amanetes)
 
 ### Contact Me 👇
 
