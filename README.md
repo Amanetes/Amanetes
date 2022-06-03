@@ -1,8 +1,10 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Sergey!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6EF72C&multiline=true&lines=Hi!+I'm+Sergey!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 💎 I’m currently learning Ruby on Rails 
 - [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
 - ![](https://komarev.com/ghpvc/?username=Amanetes)
+
+![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 
 ### Contact Me 👇
 
@@ -45,12 +47,15 @@
 
 ### GitHub Stats
   
-  ![Amanetes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanetes&theme=blue-green)
+  ![Amanetes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanetes&theme=tokyonight)
   
 ### Joke of the day
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+### Quote of the day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
 Amanetes/Amanetes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
