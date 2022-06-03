@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6EF72C&multiline=true&lines=Hi!+I'm+Sergey!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6EF72C&lines=Hi!+I'm+Sergey!)](https://git.io/typing-svg)
 
 - 💎 I’m currently learning Ruby on Rails 
 - [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
