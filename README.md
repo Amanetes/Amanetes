@@ -4,11 +4,13 @@
 - [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
 - ![](https://komarev.com/ghpvc/?username=Amanetes)
 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
+---
 
 ### Contact Me 👇
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-fatyukhin-241b38b2/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/995960910311080036)
+
+---
 
 ### My Skill Set  💻
 
@@ -21,6 +23,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
 
 ### GitHub Stats
   
