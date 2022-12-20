@@ -4,6 +4,8 @@
 - [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
 - ![](https://komarev.com/ghpvc/?username=Amanetes)
 
+[![@amanetes's Holopin badges](https://holopin.me/amanetes)](https://holopin.io/@amanetes)
+
 ---
 
 ### Contact Me 👇
