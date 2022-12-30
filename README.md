@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=6EF72C&lines=Hi!+I'm+Sergey!)](https://git.io/typing-svg)
 
-- 💎 I’m currently learning Ruby on Rails 
-- [![](https://www.codewars.com/users/Amanethes/badges/small)](https://www.codewars.com/users/Amanethes)
-- ![](https://komarev.com/ghpvc/?username=Amanetes)
 
-[![@amanetes's Holopin badges](https://holopin.me/amanetes)](https://holopin.io/@amanetes)
+![](https://komarev.com/ghpvc/?username=Amanetes&style=for-the-badge)
 
 ---
 
