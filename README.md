@@ -28,7 +28,7 @@
 
 ### GitHub Stats
   
-  ![Amanetes stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanetes&theme=tokyonight)
+  ![Amanetes stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amanetes&theme=tokyonight)
   
 ### Joke of the day
 
